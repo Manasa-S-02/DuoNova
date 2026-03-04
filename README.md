@@ -13,7 +13,7 @@ The repository contains two compressed folders:
 * **Task2.zip** – Code and outputs for **Task 2: Counter-Narrative Generation**
 
 ## Important Note
-GitHub cannot preview Jupyter notebooks (`.ipynb`) inside ZIP archives.
+GitHub cannot preview `.ipynb` files inside ZIP archives.
 To view the code and outputs:
 
 1. Download the ZIP file.
